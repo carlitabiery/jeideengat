@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://igeegamoo.heliocentric.site/sitemap.xml
